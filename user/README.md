@@ -1,16 +1,4 @@
-# user
+Profile
+![Screenshot_2023-10-25-22-22-22-86_bdce89aae3f4439d264054c61354ce75](https://github.com/aliflutter3300/code2024/assets/127172445/774e178f-0c3f-4236-bb65-b9747f636e8d)
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_2023-10-25-22-22-25-72_bdce89aae3f4439d264054c61354ce75](https://github.com/aliflutter3300/code2024/assets/127172445/64c53cab-6183-4a25-a8a3-01118a58ec9d)
