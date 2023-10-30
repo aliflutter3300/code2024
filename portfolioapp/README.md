@@ -1,16 +1,4 @@
 # portfolioapp
+Screen 1
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+  <img src="[your_relative_path_her](https://github.com/aliflutter3300/code2024/blob/main/portfolioapp/output/Screenshot_2023-10-30-21-29-45-28_77570208dfb1a44750f342998bbed309.jpg)https://github.com/aliflutter3300/code2024/blob/main/portfolioapp/output/Screenshot_2023-10-30-21-29-45-28_77570208dfb1a44750f342998bbed309.jpge" width="350" title="hover text">
